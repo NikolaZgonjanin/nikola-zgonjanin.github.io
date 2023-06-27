@@ -13,7 +13,7 @@ Topics: Fundamentals of Programing, Fundamentals of Information Technology.
 ## Education
 
 🎓 **Faculty of Computing, Belgrade** (Oct 2022 — expected graduation in 2025)\
-***B.S.*** **Computer Science**\
+***B.S.*** **Computer Science**
 
 ---
 
