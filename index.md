@@ -8,6 +8,9 @@
 Belgrade, Serbia (June 2023 - Present)\
 Topics: Fundamentals of Programing, Fundamentals of Information Technology.
 
+🐞 **Quality Assurance Technitian** Testronic\
+Belgrade, Serbia (June 2022 - October 2022)
+
 ---
 
 ## Education
